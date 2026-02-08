@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "OPENER",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-08T09:35:02.118326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fuji Opener",
+      "artist": "Skrillex feat. Alvin Risk",
+      "has_synced": true,
+      "path": "select/01_Fuji_Opener_Skrillex_feat._Alvin_Risk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fuji Opener",
+      "artist": "Skrillex & Alvin Risk",
+      "has_synced": true,
+      "path": "select/02_Fuji_Opener_Skrillex_&_Alvin_Risk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Opener",
+      "artist": "8mm",
+      "has_synced": false,
+      "path": "select/03_Opener_8mm.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Opener",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/04_The_Opener_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Opener",
+      "artist": "Crash Of Rhinos",
+      "has_synced": false,
+      "path": "select/05_Opener_Crash_Of_Rhinos.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Opener",
+      "artist": "Courteeners",
+      "has_synced": false,
+      "path": "select/06_The_Opener_Courteeners.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Opener",
+      "artist": "The Courteeners",
+      "has_synced": false,
+      "path": "select/07_The_Opener_The_Courteeners.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Opener (Live)",
+      "artist": "Courteeners",
+      "has_synced": false,
+      "path": "select/08_The_Opener_(Live)_Courteeners.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Opener (Live)",
+      "artist": "The Courteeners",
+      "has_synced": false,
+      "path": "select/09_The_Opener_(Live)_The_Courteeners.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eye Opener",
+      "artist": "Rain City Drive",
+      "has_synced": true,
+      "path": "select/10_Eye_Opener_Rain_City_Drive.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can Opener",
+      "artist": "Quicksand",
+      "has_synced": true,
+      "path": "select/11_Can_Opener_Quicksand.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fuji Opener (feat. Alvin Risk)",
+      "artist": "Skrillex feat. Alvin Risk",
+      "has_synced": true,
+      "path": "select/12_Fuji_Opener_(feat._Alvin_Risk)_Skrillex_feat._Alvin_Risk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fuji Opener (feat. Alvin Risk)",
+      "artist": "Skrillex",
+      "has_synced": false,
+      "path": "select/13_Fuji_Opener_(feat._Alvin_Risk)_Skrillex.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Opener",
+      "artist": "Jimmy Eat World",
+      "has_synced": false,
+      "path": "select/14_Opener_Jimmy_Eat_World.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bottle Opener",
+      "artist": "Gus Dapperton",
+      "has_synced": true,
+      "path": "select/15_Bottle_Opener_Gus_Dapperton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Opener",
+      "artist": "Local Resident Failure",
+      "has_synced": true,
+      "path": "select/16_The_Opener_Local_Resident_Failure.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Opener",
+      "artist": "Hookworms",
+      "has_synced": false,
+      "path": "select/17_Opener_Hookworms.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Opener",
+      "artist": "awakebutstillinbed",
+      "has_synced": true,
+      "path": "select/18_Opener_awakebutstillinbed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OPENER",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_OPENER_KMNZ.txt"
+    }
+  ]
+}
